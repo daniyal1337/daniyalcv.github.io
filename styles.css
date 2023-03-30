@@ -1,0 +1,242 @@
+.p1{
+    height: 60px;
+    width: 200px;
+    position:absolute;
+    margin-left: 20px;
+}
+.p12{
+    position: absolute;
+    margin-left: 700px;
+}
+
+
+  form {
+    color: #555;
+    display: flex;
+    padding: 2px;
+    border: 1px solid currentColor;
+    border-radius: 20px;
+    margin: 0 0 400px;
+    width: 400px;
+  }
+
+  input[type='search'] {
+    border: none;
+    background: transparent;
+    margin: 0;
+    padding: 7px 8px;
+    font-size: 14px;
+    color: inherit;
+    border: 1px solid transparent;
+    border-radius: inherit;
+    width: 400px;;
+  }
+
+  input[type='search']::placeholder {
+    color: #bbb;
+  }
+  .d{
+    position: absolute;
+    margin-left: 650px;
+  }
+  .im{
+    position: absolute;
+    right: 10%;
+    top: 30%;
+    
+  }
+  .te{
+    position: absolute;
+    top:30%;
+    margin-left: 10%;
+    margin-top: 40px;
+  }
+  .img1{
+    position: absolute;
+    top: 60%;
+    height: 600px;
+    width: 500px;
+    left: 3%;
+  }
+  
+  .para{
+    position: absolute;
+    top: 1000px;
+    left: 50%;
+  }
+  .head2{
+    position: absolute;
+    top:1600px;
+    left: 6%;
+  }
+  .img2{
+    position: absolute;
+    height: 650px;
+    width: 700px;
+    top: 1500px;
+    left: 1000px;
+  }
+.img12{
+  position: absolute;
+  top: 2500px;
+  height: 12%;
+  width: 100%;
+}
+.card1{
+  position: absolute;
+  top: 2900px;
+}
+.img13{
+  position: absolute;
+  left: 0%;
+  width: 95%;
+  
+}
+button{
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.card1{
+  margin-left: 5%;
+  margin-right: 5%;
+}
+.img14{
+  position: absolute;
+  top: 2400px;
+  height:32%;
+  width: 100%;
+}
+.line{
+  position: absolute;
+  top: 5150px;
+  text-align: center;
+  left: 25%;
+}
+.img3{
+  position: absolute;
+  top:2650px;
+}
+.text2{
+  position:absolute;
+  top: 5400px;
+  left:70%;
+  color: rgb(24, 24, 72);
+  size: 2cm;
+}
+.img15{
+  position: absolute;
+  top:3070px;
+  left: 15%;
+  width: 1100px;
+  height: 500px;
+}
+.img5{
+  position: absolute;
+  top: 3400px;
+
+}
+.txt2{
+  position: absolute;
+  top: 6850px;
+  left: 60%;
+  color: rgb(52, 52, 150);
+}
+.txt3{
+  position: absolute;
+  top: 7500px;
+  left: 35%;
+}
+.img16{
+  position: absolute;
+  top: 3800px;
+  left: 25%;
+
+}
+.txt4{
+  position: absolute;
+  top: 8300px;
+  left: 25%;
+}
+.img6{
+  position: absolute;
+  top: 8700px;
+  height: 700px;
+  width:100%;
+}
+.faq{
+  position: absolute;
+  top: 9550px;
+  left: 40%;
+}
+.faq1{
+  position: absolute;
+  top: 9690px;
+  left: 12%;
+  right: 12%;
+}
+/* Style all font awesome icons */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+.fa-reddit {
+  background: #ff5700;
+  color: white;
+}
+.img18{
+  position: absolute;
+  top: 10600px;
+}
+.foot1{
+  position: absolute;
+  top: 10760px;
+  left: 15%;
+}
+.foot2{
+  position: absolute;
+  top: 10760px;
+  left: 35%;
+
+}
+.foot3{
+  position: absolute;
+  top: 10760px;
+  left: 60%;
+  
+}
+.img10{
+  position: absolute;
+  top: 5600px;
+
+}
+.foot4{
+  position: absolute;
+  top: 11350px;
+  left: 30%;
+}
